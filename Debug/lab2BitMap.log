@@ -1,0 +1,5 @@
+﻿  bitmap.cpp
+F:\shiyongsuanfa\lab2BitMap\lab2BitMap\bitmap.cpp(25,1): warning C4293: “>>”: Shift 计数为负或过大，其行为未定义
+F:\shiyongsuanfa\lab2BitMap\lab2BitMap\bitmap.cpp(25,1): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+F:\shiyongsuanfa\lab2BitMap\lab2BitMap\bitmap.cpp(67,21): warning C4244: “参数”: 从“double”转换到“size_t”，可能丢失数据
+  lab2BitMap.vcxproj -> F:\shiyongsuanfa\lab2BitMap\lab2BitMap\Debug\lab2BitMap.exe
